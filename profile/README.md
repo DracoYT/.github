@@ -2,7 +2,7 @@
   
 | :warning: Hold On!              |
 |:---------------------------|
-| Website will be incomplete for a while, i'm gathering all projects that have a reference to this name. |
+| Website will be incomplete for a while, i'm gathering all projects that have a reference to this name. (Update: Can't create github page...) |
 </center>
 
 # Hi!
